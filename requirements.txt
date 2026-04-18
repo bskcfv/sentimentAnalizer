@@ -1,0 +1,27 @@
+
+#ml
+scikit-learn
+nltk
+joblib
+pandas
+regex
+
+# FastAPI
+fastapi
+uvicorn[standard]
+
+# Data processing
+numpy
+
+# PostgreSQL async driver (recomendado con FastAPI)
+asyncpg
+
+# ORM moderno
+SQLAlchemy
+
+# Utilities
+python-dotenv
+
+pandas
+python-multipart
+openpyxl
